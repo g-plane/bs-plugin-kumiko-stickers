@@ -1,0 +1,17 @@
+{
+  "name": "kumiko-stickers",
+  "version": "1.0.0",
+  "title": "黄前久美子",
+  "description": "图片来自 https://t.me/addstickers/oumae",
+  "author": "GPlane",
+  "namespace": "GPlane\\KumikoStickers",
+  "require": {
+    "blessing-skin-server": "^5.0.0"
+  },
+  "enchants": {
+    "icon": {
+      "bg": "maroon",
+      "fa": "capsules"
+    }
+  }
+}
